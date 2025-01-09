@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on Rust based network and web backend / api applications, along with some frontend and simulations using the bevy game engine.<br>I am looking to collaborate on any open source projects using Rust, especially for network and web related purposes.<br>I am looking for help with my Rust-Micro-CMS project and my Project Julia bevy based simulation. Shortly I will be seeking help with my QUIC based p2p application/ecosystem.<br>I am actively learning everything I can about Rust, network protocols - focusing on QUIC and P2P using libp2p, and managing and organizing projects.<br>Ask me about why I love Rust and collaborating and meeting other awesome developers to collaborate with!<br>Fun fact about me: I speak two languages, have been to 3 continents, and love trying new foods!
+I am actively learning everything I can about Rust, and my dream job is to be a Rust based Software Developer.<br>Ask me about why I love Rust and collaborating and meeting other awesome developers to collaborate with!<br>Fun fact about me: I speak two languages, have been to 3 continents, and love trying new foods!
 
 
 ## 🌐 Socials:
