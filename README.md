@@ -8,7 +8,7 @@ Happy to chat about Rust, systems-y backend work, and collaboration.<br>
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-[![RPG-Alex's Github Stats](https://github-readme-stats.vercel.app/api?username=rpg-alex)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rpg-alex?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ### Random Dev Quote
